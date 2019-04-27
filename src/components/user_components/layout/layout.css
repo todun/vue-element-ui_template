@@ -1,0 +1,68 @@
+#app {
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    border: hidden;
+    background-color: #FFFFFF;
+}
+#user_index {
+    widows: 100%;
+    height: 100%;
+}
+.el-container {
+    width: 100%;
+    height: 100%;
+}
+.el-aside {
+    background-color: #2B3034;
+    position: relative;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    margin: auto;  
+    left: 0; 
+    right: 0;
+}
+.el-menu {
+    border-width: 0px;
+}
+.el-header {
+    background-color: #FFFFFF;
+    position: relative;
+}
+.user-area {
+    right: 10px;
+    position: absolute;
+}
+.user-name {
+    float: left;
+    position: relative;
+    top: 9px;
+    margin: 5px;
+}
+.el-tag {
+    color: black;
+    font-size: 16px;
+}
+.user-avatar {
+    margin: 5px;
+    position: relative;
+    float: right;
+    background-color: #FFFFFF;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    border-width: 3px;
+    border-color: #2B3034;
+}
+.el-main {
+    background-color: #EEEFF1;
+}
+.el-footer {
+    background-color: #FFFFFF;
+}
